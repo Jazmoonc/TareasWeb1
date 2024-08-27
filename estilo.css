@@ -1,0 +1,20 @@
+h1{
+    color: violet;
+    border: 1px solid green;
+}
+
+p{
+    font-size:35px ;
+    border: 1px solid orange;
+}
+.parrafoAzul{
+    font-size:20px ;
+    border: 1px solid blue;
+}
+.parrafoAmarillo{
+    color: rgb(214, 78, 157);
+    background-color: aquamarine;
+    border: yellow;
+    font-size: 20px;
+    padding-bottom: 120px;
+}
